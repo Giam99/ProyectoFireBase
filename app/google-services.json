@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "714321254256",
+    "project_id": "primerfirebase-6f3f7",
+    "storage_bucket": "primerfirebase-6f3f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714321254256:android:75dcdffcbe0768d6c5a1b5",
+        "android_client_info": {
+          "package_name": "com.example.primerfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714321254256-8s2eqgtcf1t2n1psnqd9efe68k8setkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFp2XlKcretq3AuCQr5aTGUbzqqJLfcuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714321254256-8s2eqgtcf1t2n1psnqd9efe68k8setkr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
